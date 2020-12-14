@@ -7,11 +7,11 @@ int main()
 	unsigned double x2;
 	long int long x3;
 	bool x4;
-	char int x5;
-	x6 float;
-	long double x7;
+	char int x5; geçersiz
+	x6 float; geçersiz
+	long double x7; 
 	unsigned short int x8;
-	long unsigned x9;
-	long float x10;
+	long unsigned x9; geçersiz
+	long float x10; geçersiz
 }
 ```
